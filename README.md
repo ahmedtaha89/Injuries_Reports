@@ -1,6 +1,6 @@
 # Employment Injury Dataset
 
-![Dataset Cover Image](img.png) 
+![Dataset Cover Image](Injuries_Reports_Img.png) 
 
 Welcome to the "Employment Injury" dataset! This dataset is sourced from [data.gov.sa](https://od.data.gov.sa/Data/dataset/employment-injury) and provides valuable insights into employment-related injuries in [Saudi Arabia].
 
